@@ -19,3 +19,9 @@ C:\Users\staffgs22\Documents\dk\ListEx\ListEx\bin\Debug\ListEx.pdb
 P:\c#\ListEx\ListEx\bin\Debug\ListEx.exe.config
 P:\c#\ListEx\ListEx\obj\Debug\ListEx.exe
 P:\c#\ListEx\ListEx\obj\Debug\ListEx.pdb
+P:\c#\ListEx\ListEx\bin\Debug\ListEx.exe
+P:\c#\ListEx\ListEx\bin\Debug\ListEx.pdb
+P:\c#\ListEx\ListEx\obj\Debug\ListEx.csprojResolveAssemblyReference.cache
+P:\c#\ListEx\ListEx\obj\Debug\ListEx.Form1.resources
+P:\c#\ListEx\ListEx\obj\Debug\ListEx.Properties.Resources.resources
+P:\c#\ListEx\ListEx\obj\Debug\ListEx.csproj.GenerateResource.Cache

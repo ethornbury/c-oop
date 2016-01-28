@@ -22,7 +22,10 @@ namespace ListEx
             Age = a;
         }
 
-
-
+        //override the method 
+        public override string ToString()
+        {
+            return Fname + " " + Lname + " " + Age;
+        }
     }
 }
