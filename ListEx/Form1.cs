@@ -14,7 +14,7 @@ namespace ListEx
     {
 
         List<Contact> friends = new List<Contact>();
-        //list object declaration
+        //list<object> nickname = declaration
 
 
         public Form1()
@@ -25,9 +25,8 @@ namespace ListEx
         private void btnSave_Click(object sender, EventArgs e)
         {
             string firstName = txtFirstName.Text;
-            string lastName = txtLastName.Text;
-            
-            //try catch to catch user inout of text
+            string lastName = txtLastName.Text;          
+            //would be good to use try catch to catch user inout of text
             int age = int.Parse(txtAge.Text);
 
 
@@ -57,13 +56,13 @@ namespace ListEx
 
         private void btnShow_Click(object sender, EventArgs e)
         {
-            //
 
             //lblDisplay.Text = "";
             foreach (Contact c in friends) //data type Contact, variable (any word) in collection friends
             {
 
                 lblDisplay.Text += c.ToString() + "\n";
+                // += will show each entry one after another
                 //override the toString method to display the int age
                 //overriding - changing the functionality of a method
             }
